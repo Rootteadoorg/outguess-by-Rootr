@@ -14,7 +14,7 @@ $ outguess -k "key" -d file.txt image.jpg out.jpg or .png
 ↑ ↑ To hide text in the image.
 ```
 ```
-$ outguess -k "key" -r image.jpg out.jpg or .png
+$ outguess -k "key" -r image.jpg or .png out.txt
 
 ↑ ↑ Decipher text in images.
 ```
